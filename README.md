@@ -1,5 +1,6 @@
 # Token
-Desenvolvendo um token no padrão ERC-20 com Ethereum
+Desenvolvendo um token no padrão ERC-20 com Ethereum.
+Usei o VSCode com a extenção solidity
 
 Importante para os testes:
 
